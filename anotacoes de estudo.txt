@@ -1,0 +1,7 @@
+utilizacao e implementacao de um controler e um repositorio
+
+breve pinceladada no response status
+
+
+method get e post implementados
+
